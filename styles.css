@@ -65,18 +65,22 @@ h3 {
 }
 
 p {
-  color: #086e0a;
+  color: #0b520b;
 }
 
 .image img {
   display: flex;
   align-items: center;
   height: 500px;
+  margin: 75px;
 }
 
 footer {
   background-color: #065808;
   color: #a8dfc2;
+}
+footer p {
+  color: #96b8a6;
 }
 
 .contact {
